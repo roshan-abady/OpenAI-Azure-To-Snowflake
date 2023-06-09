@@ -1,5 +1,5 @@
-# Azure Snowflake Codebase
-This repo contains Samples and codebase related to Azure and Snowflake Integrations
+# OpenAI-Azure-To-Snowflake
+This repo contains an example of briging spoken word to Data by the means of Azure OpenAI integration with Snowflake Data set.
 
 ## Legal
 
